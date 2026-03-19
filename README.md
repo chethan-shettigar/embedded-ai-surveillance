@@ -18,3 +18,6 @@ Embedded Linux, YOLO, FFmpeg, Nginx, LTE, Python, Bash
 - Edge AI processing
 - Real-time event detection
 - Remote monitoring system
+
+## Note
+This project is presented at a system level to demonstrate functionality and design approach.
